@@ -17,15 +17,17 @@
  
  <!-- Latest compiled and minified CSS & JS -->
  <link rel="stylesheet" media="screen" href="<?= base_url ("/node_modules/bootstrap/dist/css/bootstrap.min.css") ?>">
+<link rel="stylesheet" media="screen" href="<?= base_url("assets/css/about.css") ?>">
  <script src="<?= base_url ("/node_modules/jquery/dist/jquery.js") ?>"></script>
  <script src="<?= base_url ("/node_modules/bootstrap/dist/js/bootstrap.min.js") ?>"></script>
  
 </head>
-
+<body>
+        
 <?php  $this->load->view('template/base/nav'); ?> 
-<div class="container">  
+  
 <?= $view_content ?> 
-</div>
+
 </body>
 </html>
         <!-- Page Content Slider -->
