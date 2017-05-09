@@ -281,8 +281,9 @@ img.emoji {
 	<li class="cat-item cat-item-8"><a href="http://politic.webtemplatemasters.com/category/politic-news/upcoming-events/" >Upcoming Events</a>
 </li>
 		</ul>
-</div><div id="cd_fbsp_like_widget-2" class="widget-container cd-fb-like-widget"><h3 class="widget-title">Find Us on Facebook</h3><fb:like-box href="http://www.facebook.com/wpThemeMakers" width="300" height="400" border_color="" show_faces="true" stream="false" header="true"></fb:like-box></div><div id="popular_posts-2" class="widget-container widget_popular_posts"><h3 class="widget-title">Popular Posts</h3><ul><li><a href="http://politic.webtemplatemasters.com/hello-world/"><h6>How to use Quick Donate nullam consectetur</h6></a><span class="widget-date">May 17, 2012, 3 Comments</span></li><li><a href="http://politic.webtemplatemasters.com/vivamus-vitae-nibh-lacus-aliquam-venenatis/"><h6>Vivamus vitae nibh lacus. Aliquam venenatis</h6></a><span class="widget-date">June 18, 2012, 3 Comments</span></li><li><a href="http://politic.webtemplatemasters.com/maecenas-placerat-leo-at-malesuada-interdum/"><h6>Maecenas placerat, leo at malesuada interdum</h6></a><span class="widget-date">June 17, 2012, 2 Comments</span></li></ul></div>
-		</aside><!--/ #sidebar-->
+</div><div id="cd_fbsp_like_widget-2" class="widget-container cd-fb-like-widget" style="height:300px; overflow:scroll;"><a class="twitter-timeline" href="https://twitter.com/fschepmans">Tweets by fschepmans</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 		
 		<!-- - - - - - - - - - - - - end Sidebar - - - - - - - - - - - - - - - - -->
 		
