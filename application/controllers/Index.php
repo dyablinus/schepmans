@@ -8,6 +8,9 @@ class index extends MY_Controller {
     public function index(){
 		$this->render('schepmans/index');
 	}
-
+// Fonction liée à mon fichier php contenant l'API Facebook
+	public function apifcb(){
+		$this->render('schepmans/apifacebook');
+	}
 
 }
