@@ -14,11 +14,11 @@
     <div class="col-md-6 sociaux">
 
         <ul class="nav navbar-nav navbar-right">
-<li class="facebook"><a href="https://twitter.com/ThemeMakers" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i>
+<li class="facebook"><a href="#" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i>
 <span></span></a></li>
-	<li class="twitter"><a href="http://www.facebook.com/wpThemeMakers" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i>
+	<li class="twitter"><a href="#" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i>
 <span></span></a></li>
-<li class="youtube"><a href="http://www.facebook.com/wpThemeMakers" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i>
+<li class="youtube"><a href="#" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i>
 <span></span></a></li>
         </ul>
     </div>
@@ -44,23 +44,23 @@
                         <div class="col-sm-1"></div>
                     <div class="col-sm-2">
 
-                    <p class="hovernav"><a href="#">HOME</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">HOME</a></li>
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="#">ABOUT</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">ABOUT</a></li>
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="#">NEWS</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">NEWS</a></li>
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="#">GALLERY</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">GALLERY</a></li>
                     </div>
                      <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="#">GALLERY</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">GALLERY</a></li>
                     </div>  
                     <div class="col-sm-1"></div>
                     </div>
