@@ -1,5 +1,33 @@
 
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default" id="background-blank" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+       <div class="row">
+       <div class="col-md-6 schep">
+
+        <ul class="nav navbar-nav">
+<li>
+
+       <img src="assets/images/schepmans_logo.jpg" id="scheplogo" alt="" title="Logo">
+</li>
+        </ul>
+       </div>
+    <div class="col-md-6 sociaux">
+
+        <ul class="nav navbar-nav navbar-right">
+<li class="facebook"><a href="https://twitter.com/ThemeMakers" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i>
+<span></span></a></li>
+	<li class="twitter"><a href="http://www.facebook.com/wpThemeMakers" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i>
+<span></span></a></li>
+<li class="youtube"><a href="http://www.facebook.com/wpThemeMakers" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i>
+<span></span></a></li>
+        </ul>
+    </div>
+       </div>
+
+   
+</nav>
+
+<nav class="navbar navbar-default pad" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -8,32 +36,39 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">Title</a>
     </div>
-
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
-        <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li>
-        </ul>
-        <form class="navbar-form navbar-left" role="search">
-            <div class="form-group">
-                <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-        </form>
-        <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Link</a></li>
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li><a href="#">Separated link</a></li>
-                </ul>
-            </li>
-        </ul>
+       
+                    <div class="row">
+                        <div class="col-sm-1"></div>
+                    <div class="col-sm-2">
+
+                    <p class="hovernav"><a href="#">HOME</a></li>
+                    </div>
+                    <div class="col-sm-2">
+                        
+                    <p class="hovernav"><a href="#">ABOUT</a></li>
+                    </div>
+                    <div class="col-sm-2">
+                        
+                    <p class="hovernav"><a href="#">NEWS</a></li>
+                    </div>
+                    <div class="col-sm-2">
+                        
+                    <p class="hovernav"><a href="#">GALLERY</a></li>
+                    </div>
+                     <div class="col-sm-2">
+                        
+                    <p class="hovernav"><a href="#">GALLERY</a></li>
+                    </div>  
+                    <div class="col-sm-1"></div>
+                    </div>
+    
     </div><!-- /.navbar-collapse -->
 </nav>
+
+
+
+
+
