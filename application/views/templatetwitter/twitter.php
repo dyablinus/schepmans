@@ -261,16 +261,17 @@ img.emoji {
 			
 
 
-		</section><!--/ #content-->
-		
-		<!-- - - - - - - - - - - - - - end Content - - - - - - - - - - - - - - - - -->	
-
-					
-					<!-- - - - - - - - - - - - - - - Sidebar - - - - - - - - - - - - - - - - -->	
+		</section>
 		
 		<aside id="sidebar">
 
-			<div id="text-2" class="widget-container widget_text"><h3 class="widget-title">Video Title</h3>			<div class="textwidget"><iframe width="300" height="169" src="http://www.youtube.com/embed/dtjTWA2U_ng" frameborder="0" allowfullscreen></iframe></div>
+			<div id="text-2" class="widget-container widget_text"><h3 class="widget-title">Facebook</h3>			<div class="textwidget"><div style="width: 300px; height: 300px; overflow:scroll; overflow-x:hidden;" class="col-xs-2 col-sm-3 col-md-3 col-lg-2">
+           <div class="fb-post" data-href="https://www.facebook.com/20531316728/posts/10154009990506729/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/20531316728/posts/10154009990506729/" class="fb-xfbml-parse-ignore">Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on&nbsp;<a href="https://www.facebook.com/20531316728/posts/10154009990506729/">Thursday, August 27, 2015</a></blockquote></div>
+           <br>
+           <div class="fb-post" data-href="https://www.facebook.com/francoise.schepmans.1/posts/1737709209854543" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/francoise.schepmans.1/posts/1737709209854543" class="fb-xfbml-parse-ignore"><p>Votre r&#xf4;le est tr&#xe8;s difficile. ce n&#039;est pas le cas de beaucoup d&#039;autre &#xe9;lu MR. FELICITATIONS</p>Posted by <a href="#" role="button">Georges Mathonet</a> on&nbsp;<a href="https://www.facebook.com/francoise.schepmans.1/posts/1737709209854543">Tuesday, April 25, 2017</a></blockquote></div>
+           <br>
+           <div class="fb-post" data-href="https://www.facebook.com/francoise.schepmans.1/posts/1732412223717575" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/francoise.schepmans.1/posts/1732412223717575" class="fb-xfbml-parse-ignore"><p>J&#039;ai re&#xe7;u la visite de Hans van Baalen, d&#xe9;put&#xe9; europ&#xe9;en et pr&#xe9;sident du parti europ&#xe9;en de l&#039;Alliance des lib&#xe9;raux et des...</p>Posted by <a href="https://www.facebook.com/francoise.schepmans.1">Françoise Schepmans</a> on&nbsp;<a href="https://www.facebook.com/francoise.schepmans.1/posts/1732412223717575">Thursday, April 13, 2017</a></blockquote></div>
+       </div></div>
 		</div><div id="categories-3" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
 	<li class="cat-item cat-item-10"><a href="http://politic.webtemplatemasters.com/category/politic-news/news/" >News</a>
 </li>
@@ -281,7 +282,7 @@ img.emoji {
 	<li class="cat-item cat-item-8"><a href="http://politic.webtemplatemasters.com/category/politic-news/upcoming-events/" >Upcoming Events</a>
 </li>
 		</ul>
-</div><div id="cd_fbsp_like_widget-2" class="widget-container cd-fb-like-widget" style="height:300px; overflow:scroll;"><a class="twitter-timeline" href="https://twitter.com/fschepmans">Tweets by fschepmans</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><div id="cd_fbsp_like_widget-2" class="widget-container cd-fb-like-widget" style="height:300px; overflow:scroll;overflow-x:auto;"><a class="twitter-timeline" href="https://twitter.com/fschepmans">Tweets by fschepmans</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 		
