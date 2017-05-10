@@ -7,7 +7,7 @@
         <ul class="nav navbar-nav">
 <li>
 
-       <img src="assets/images/schepmans_logo.jpg" id="scheplogo" alt="" title="Logo">
+       <img src="<?= base_url("assets/images/schepmans_logo.jpg")?>" id="scheplogo" alt="" title="Logo">
 </li>
         </ul>
        </div>
