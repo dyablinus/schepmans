@@ -21,5 +21,4 @@ class index extends MY_Controller {
 		$this->render('schepmans/apifacebook');
 	}
 
-
 }
