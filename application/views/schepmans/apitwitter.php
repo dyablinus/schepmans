@@ -1,3 +1,4 @@
+
 <?php
 /**
  * Twitter API SEARCH
@@ -14,5 +15,7 @@ $access_token_secret = "WFEm4C1z8hE9U21zymZI2zNzmtbLeq80cYxfS1IKgDe7W";
 
 $twitter = new TwitterOAuth($consumer_key,$consumer_secret,$access_token,$access_token_secret);
 
-
 ?>
+<a class="twitter-timeline" href="https://twitter.com/fschepmans">Tweets by fschepmans</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Fin de la discussion
+
