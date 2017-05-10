@@ -18,6 +18,16 @@
  
  <!-- Latest compiled and minified CSS & JS -->
  <link rel="stylesheet" media="screen" href="<?= base_url ("/node_modules/bootstrap/dist/css/bootstrap.min.css") ?>">
+<<<<<<< HEAD
+<link rel="stylesheet"  href="<?= base_url("/assets/css/about.css") ?>">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya>
+ 
+</head>
+<body>
+        
+<?php  $this->load->view('template/base/nav'); ?> 
+  
+=======
 
 <link rel="stylesheet" href="<?= base_url("/assets/twitter.css")?>">
  <link rel="stylesheet" href="<?= base_url ("assets/css/navbar.css") ?>">
@@ -34,8 +44,11 @@
 
 </div>
 <div class="container">  
+>>>>>>> master
 <?= $view_content ?> 
-</div>
+
+ <script src="<?= base_url ("/node_modules/jquery/dist/jquery.js") ?>"></script>
+ <script src="<?= base_url ("/node_modules/bootstrap/dist/js/bootstrap.min.js") ?>"></script>
 </body>
 </html>
         <!-- Page Content Slider -->
