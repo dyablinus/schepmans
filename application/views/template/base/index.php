@@ -17,9 +17,8 @@
  
  <!-- Latest compiled and minified CSS & JS -->
  <link rel="stylesheet" media="screen" href="<?= base_url ("/node_modules/bootstrap/dist/css/bootstrap.min.css") ?>">
-<link rel="stylesheet" media="screen" href="<?= base_url("assets/css/about.css") ?>">
- <script src="<?= base_url ("/node_modules/jquery/dist/jquery.js") ?>"></script>
- <script src="<?= base_url ("/node_modules/bootstrap/dist/js/bootstrap.min.js") ?>"></script>
+<link rel="stylesheet"  href="<?= base_url("/assets/css/about.css") ?>">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya>
  
 </head>
 <body>
@@ -28,6 +27,8 @@
   
 <?= $view_content ?> 
 
+ <script src="<?= base_url ("/node_modules/jquery/dist/jquery.js") ?>"></script>
+ <script src="<?= base_url ("/node_modules/bootstrap/dist/js/bootstrap.min.js") ?>"></script>
 </body>
 </html>
         <!-- Page Content Slider -->
