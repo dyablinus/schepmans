@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">MOLENBEEK-SAINT-JEAN</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">MOLENBEEK</a></li>
                     </div>
                      <div class="col-sm-2">
                         
