@@ -23,8 +23,8 @@
  <link rel="stylesheet" href="<?= base_url ("assets/css/navbar.css") ?>">
 
  <script src="<?= base_url ("/node_modules/jquery/dist/jquery.js") ?>"></script>
-
  <script src="<?= base_url ("/node_modules/bootstrap/dist/js/bootstrap.min.js") ?>"></script>
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
  
 </head>
 <body
@@ -36,6 +36,14 @@
 <div class="container">  
 <?= $view_content ?> 
 </div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+</head>
 </body>
 </html>
         <!-- Page Content Slider -->
