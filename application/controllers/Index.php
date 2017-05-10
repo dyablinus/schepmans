@@ -8,6 +8,9 @@ class index extends MY_Controller {
     public function index(){
 		$this->render('schepmans/index');
 	}
+	public function apitwitter(){
+		$this->render('schepmans/apitwitter');
+	}
 
 
 }
