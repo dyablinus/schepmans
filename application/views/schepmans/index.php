@@ -41,10 +41,38 @@
     <a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
 <!-- caroussel end -->
+
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="row fafa">
+            <div class="col-xs-1"><i class="fa fa-users" aria-hidden="true"></i>
+</div>
+            <div class="col-xs-3">
+                <h3 class="jumbofont">ÉQUIPE</h3>
+                <p class="jumbopara">Apendum pupum</p>
+                </div>
+            <div class="col-xs-1"><i class="fa fa-users" aria-hidden="true"></i>
+</div>
+            <div class="col-xs-3">
+                <h3 class="jumbofont">PARTIE POLITIQUE</h3>
+                <p class="jumbopara">Apendum pupum</p>
+                </div>
+            <div class="col-xs-1"><i class="fa fa-users" aria-hidden="true"></i>
+</div>
+            <div class="col-xs-3">
+                <h3 class="jumbofont">CALENDRIER</h3>
+                <p class="jumbopara">Apendum pupum</p>
+                </div>
+        </div>
+    </div>
+</div>
+
+
 <!-- actuality page start/ main page -->
 <div class="row">
     <div class="col-md-8">
-    <h2>lorem
+    <h2 class="padactu">Dernières actualités
     </h2>
         <img src="<?= base_url ("assets/images/schep2.jpg") ?>" id="homeimg1" alt="">
         <p > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque quis sapiente minima voluptatem fuga aliquam et accusamus labore, mollitia pariatur nulla provident officiis ut eveniet dolorem velit, inventore magni quasi?</p>
@@ -62,13 +90,13 @@
 </div>
     <div class="row">
         <div class="col-md-4">
-        <h2>loremdjdkjfkjdfkjdfkjdfkjdfkj</h2>
+        <h2 class="articlfont">Jean-Pierre achete une voiture à Molenbeek</h2>
         <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
         <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
         <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
         </div>
         <div class="col-md-4">
-        <h2>loremdjkdfkjdjkfdkhdf</h2>
+        <h2 class="articlfont">Jean-Michel le beauf va a la commune de Molenbeek</h2>
         <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
         <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
         <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
@@ -77,13 +105,13 @@
     </div>
 <div class="row">
         <div class="col-md-4">
-        <h2>loremdjdkjfkjdfkjdfkjdfkjdfkj</h2>
+        <h2 class="articlfont">Jean-Aimarre en a marre de la marée haute</h2>
         <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
         <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
         <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
         </div>
         <div class="col-md-4">
-        <h2>loremdjkdfkjdjkfdkhdf</h2>
+        <h2 class="articlfont">Je sais plus quoi écrire comme titre c'est relou</h2>
         <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
         <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>

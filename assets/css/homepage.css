@@ -2,10 +2,44 @@
     box-sizing: border-box;
 }
 #homeimg1 {
-    width: 700px;
-    height: 400px;
+    width: 95%;
+    height: 95%;
+    border: 8px solid #17507a;
+    margin-bottom: 4%;
 }
 .border{
     border-bottom: 3px solid lightgray;
     padding-bottom: 15px;
+}
+.articlfont{
+    font-size: 20px;
+}
+.jumbofont{
+    color: blue;
+    font-size: 20px;
+}
+.jumbotron .jumbopara{
+    color: gray;
+    font-size: 14px;
+}
+.fafa .fa{
+    font-size: 40px;
+    padding-top: 20px;
+}
+div.jumbotron{
+    margin-top: 3%;
+}
+.padactu{
+    padding-bottom: 15px;
+}
+@media screen and (max-width: 550px) {
+    .fafa .fa{
+    font-size: 15px;
+    }
+    .jumbotron .jumbopara{
+    font-size: 9px;
+    }
+    .jumbotron .jumbofont{
+        font-size: 11px;
+    }
 }
