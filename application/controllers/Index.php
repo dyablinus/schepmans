@@ -11,7 +11,7 @@ class index extends MY_Controller {
 	public function apitwitter(){
 		$this->render('schepmans/apitwitter');
 	}
-	public function acceuil(){
+	public function accueil(){
 
 		$this->render('templatetwitter/twitter');
 	}
