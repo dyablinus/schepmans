@@ -8,6 +8,21 @@ class index extends MY_Controller {
     public function index(){
 		$this->render('schepmans/index');
 	}
+	public function apitwitter(){
+		$this->render('schepmans/apitwitter');
+	}
+	public function accueil(){
 
+		$this->render('templatetwitter/twitter');
+	}
+
+// Fonction liée à mon fichier php contenant l'API Facebook
+	public function apifcb(){
+		$this->render('schepmans/apifacebook');
+	}
+//  function pour lié mon fichier twitter 
+	public function apitwitter(){
+		$this->render('schepmans/apitwitter');
+	}
 
 }
