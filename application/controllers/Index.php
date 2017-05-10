@@ -20,9 +20,5 @@ class index extends MY_Controller {
 	public function apifcb(){
 		$this->render('schepmans/apifacebook');
 	}
-//  function pour lié mon fichier twitter 
-	public function apitwitter(){
-		$this->render('schepmans/apitwitter');
-	}
 
 }
