@@ -1,4 +1,4 @@
-
+<!--- caroussel start -->
 <div id="carousel-id" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#carousel-id" data-slide-to="0" class=""></li>
@@ -40,14 +40,54 @@
     <a class="left carousel-control" href="#carousel-id" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
-
+<!-- caroussel end -->
+<!-- actuality page start/ main page -->
 <div class="row">
     <div class="col-md-8">
     <h2>lorem
-        <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>"  alt="">
     </h2>
+        <img src="<?= base_url ("assets/images/schep2.jpg") ?>" id="homeimg1" alt="">
+        <p > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque quis sapiente minima voluptatem fuga aliquam et accusamus labore, mollitia pariatur nulla provident officiis ut eveniet dolorem velit, inventore magni quasi?</p>
+        <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
     </div>
     <div class="col-md-4">
-    video title
+    <h2>Video title</h2>
+    <section class="post-meta">
+    <div class="post-date">May 10, 2017</div>
+    <div class="post-tags">Info</div>
+    <div class="post-comment">Comments</div>
+    </section>
+    <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
     </div>
 </div>
+    <div class="row">
+        <div class="col-md-4">
+        <h2>loremdjdkjfkjdfkjdfkjdfkjdfkj</h2>
+        <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
+        <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
+        <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
+        </div>
+        <div class="col-md-4">
+        <h2>loremdjkdfkjdjkfdkhdf</h2>
+        <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
+        <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
+        <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+<div class="row">
+        <div class="col-md-4">
+        <h2>loremdjdkjfkjdfkjdfkjdfkjdfkj</h2>
+        <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
+        <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
+        <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
+        </div>
+        <div class="col-md-4">
+        <h2>loremdjkdfkjdjkfdkhdf</h2>
+        <img src="<?= base_url ("assets/images/schepmans_logo.jpg") ?>" alt="">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab adipisci at magnam excepturi totam nemo repellat facilis provident aut possimus iste nihil dolore delectus, esse nisi cum, numquam. Dolores.</p>
+        <a class="border" href="http://politic.webtemplatemasters.com/cum-sociis-natoque-penatibus-et-magnis/" class="button gray" title="Read More →">Read More →</a>
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+<!-- main page end -->

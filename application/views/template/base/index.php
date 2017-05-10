@@ -11,6 +11,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="stylesheet" href="<?= base_url ("assets/css/navbar.css") ?>">
+    <link rel="stylesheet" href="<?= base_url ("assets/css/homepage.css") ?>">
     <link rel="stylesheet" href="<?= base_url("node_modules/font-awesome/css/font-awesome.min.css") ?>">
     <title>Appland - One Page Parallax</title>
 
