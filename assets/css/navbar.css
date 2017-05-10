@@ -24,6 +24,15 @@
 .fa.fa-youtube:hover{
     color: red;
 }
+.fa.fa-facebook-official:hover{
+    color: blue;
+}
+.fa.fa-twitter:hover{
+    color: blue;
+}
+.fa.fa-rss:hover{
+    color: black;
+}
 div.col-sm-2:hover{
     background-color: lightblue;
     

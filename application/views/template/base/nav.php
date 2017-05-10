@@ -12,13 +12,15 @@
         </ul>
        </div>
     <div class="col-md-6 sociaux">
-
+        <!-- réseaux sociaux -->
         <ul class="nav navbar-nav navbar-right">
 <li class="facebook"><a href="#" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i>
 <span></span></a></li>
 	<li class="twitter"><a href="#" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i>
 <span></span></a></li>
 <li class="youtube"><a href="#" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i>
+<span></span></a></li>
+<li class="actu"><a href="#" title="Actu"><i class="fa fa-rss" aria-hidden="true"></i>
 <span></span></a></li>
         </ul>
     </div>
@@ -30,6 +32,7 @@
 <nav class="navbar navbar-default pad" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
+        <!-- menu burger -->
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -48,19 +51,19 @@
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">ABOUT</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">QUI SUIS-JE?</a></li>
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">NEWS</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">VIE POLITIQUE</a></li>
                     </div>
                     <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">GALLERY</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">MOLENBEEK-SAINT-JEAN</a></li>
                     </div>
                      <div class="col-sm-2">
                         
-                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">GALLERY</a></li>
+                    <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">CONTACT</a></li>
                     </div>  
                     <div class="col-sm-1"></div>
                     </div>
