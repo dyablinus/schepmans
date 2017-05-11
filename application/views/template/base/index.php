@@ -10,20 +10,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="stylesheet" href="<?= base_url ("assets/css/navbar.css") ?>">
     <link rel="stylesheet" href="<?= base_url("node_modules/font-awesome/css/font-awesome.min.css") ?>">
-    <title>Appland - One Page Parallax</title>
-
     <!-- Favicon -->
  
  <!-- Latest compiled and minified CSS & JS -->
  <link rel="stylesheet" media="screen" href="<?= base_url ("/node_modules/bootstrap/dist/css/bootstrap.min.css") ?>">
-
-<link rel="stylesheet"  href="<?= base_url("/assets/css/about.css") ?>">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Alegreya">
-
-<link rel="stylesheet" href="<?= base_url("/assets/twitter.css")?>">
+<link rel="stylesheet"  href="<?= base_url("/assets/css/about.css") ?>">
+<link rel="stylesheet"  href="<?= base_url("/assets/twitter.css")?>">
  <link rel="stylesheet" href="<?= base_url ("assets/css/navbar.css") ?>">
+ <link rel="stylesheet" href="<?= base_url ("assets/css/homepage.css") ?>">
+  <title>Appland - One Page Parallax</title>
  
 </head>
 <body>
@@ -34,6 +31,8 @@
 </header>
 
 <?= $view_content ?> 
+  
+  
     <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
