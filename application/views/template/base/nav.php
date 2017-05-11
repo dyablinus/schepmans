@@ -45,23 +45,23 @@
        
                     <div class="row">
                         <div class="col-sm-1"></div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
 
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">HOME</a></li>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">QUI SUIS-JE?</a></li>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">VIE POLITIQUE</a></li>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">MOLENBEEK</a></li>
                     </div>
-                     <div class="col-sm-2">
+                     <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">CONTACT</a></li>
                     </div>  
