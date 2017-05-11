@@ -1,3 +1,7 @@
+<div class="container">
+
+<header>
+
 
 <nav class="navbar navbar-default" id="background-blank" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -73,7 +77,9 @@
     </div><!-- /.navbar-collapse -->
 </nav>
 
+</header>
 
+</div>
 
 
 
