@@ -14,13 +14,13 @@
     <div class="col-md-6 sociaux">
         <!-- réseaux sociaux -->
         <ul class="nav navbar-nav navbar-right">
-<li class="facebook"><a href="#" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i>
+<li class="facebook"><a href="#" title="Facebook"><i class="syl fa fa-facebook-official" aria-hidden="true"></i>
 <span></span></a></li>
-	<li class="twitter"><a href="#" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i>
+	<li class="twitter"><a href="#" title="Twitter"><i class="syl fa fa-twitter" aria-hidden="true"></i>
 <span></span></a></li>
-<li class="youtube"><a href="#" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i>
+<li class="youtube"><a href="#" title="Youtube"><i class="syl fa fa-youtube" aria-hidden="true"></i>
 <span></span></a></li>
-<li class="actu"><a href="#" title="Actu"><i class="fa fa-rss" aria-hidden="true"></i>
+<li class="actu"><a href="#" title="Actu"><i class="syl fa fa-rss" aria-hidden="true"></i>
 <span></span></a></li>
         </ul>
     </div>

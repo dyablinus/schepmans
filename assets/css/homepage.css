@@ -4,15 +4,15 @@
 #homeimg1 {
     width: 95%;
     height: 95%;
-    border: 8px solid #17507a;
+    border: 8px solid #175970;
     margin-bottom: 4%;
 }
-.border{
-    border-bottom: 3px solid lightgray;
-    padding-bottom: 15px;
-}
+
 .articlfont{
-    font-size: 20px;
+    font-size: 24px;
+    margin-top: 15%;
+    color: gray;
+    font-weight: bold;
 }
 .jumbofont{
     color: #97bed3;
@@ -35,16 +35,18 @@ div.jumbotron{
     font-weight: 600;
 }
 .taille{
-    width:90%;
-    padding-bottom: 10%;
+    width:324px;
+    height: 252px;
+    margin-bottom: 10px;
+     border: 5px solid #175970;
 }
-.fa-users{
+.syl.fa-users{
     color: #a39a9f;
 }
-.fa-calendar{
+.syl.fa-calendar{
     color: #a39a9f;
 }
-.fa-thumbs-up{
+.syl.fa-thumbs-up{
     color: #a39a9f;
 }
 .timer{
@@ -53,11 +55,28 @@ div.jumbotron{
 }
 .colorpara{
     color: #848484;
+    padding-bottom: 10px;
 }
 .border.button.gray{
     background-color: lightgray;
-    padding-bottom: 0;
+    padding: 10px;
+    color: darkblue;
+}
+.textdeco a {
+     text-decoration: none;
+}
+.textdeco a.border:hover{
+    background-color: lightblue;
+    color: black;
+}
+.borduresepar{
+    border-bottom: 3px solid #175979;
+    margin-top: 3%;
+    margin-bottom: 1%;
     
+}
+.marginpourfooter{
+    margin-bottom: 10%;
 }
 @media screen and (max-width: 550px) {
     .fafa .fa{
