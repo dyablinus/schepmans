@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "sullivan";
+    src: url('../fonts/Sullivan.ttf')
+}
+
+
+
+p {
+    color : #666161;
+    line-height: 25px;
+    font-family: "Alegreya";
+    font-size: 18px;
+}
+h1, h2 {
+    color : #175079;
+    margin: 0px;
+    margin-bottom: 50px;
+    font-family: "sullivan";
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+h2 {
+    font-size: 38px;
+}
+
+
+#bannière {
+    
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 110px;
+
+}
+#portraitschepmans {
+
+    width: 80%;
+
+}
+.barre
+{
+   margin: 100px 100px 100px 0px;
+   border-bottom: 1px solid black;
+   background-color: lightgrey;
+}
