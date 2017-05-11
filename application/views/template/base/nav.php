@@ -11,20 +11,22 @@
         <ul class="nav navbar-nav">
 <li>
 
+
        <img src="<?= base_url("assets/images/schepmans_logo.jpg")?>" id="scheplogo" alt="" title="Logo">
+
 </li>
         </ul>
        </div>
     <div class="col-md-6 sociaux">
         <!-- réseaux sociaux -->
         <ul class="nav navbar-nav navbar-right">
-<li class="facebook"><a href="#" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i>
+<li class="facebook"><a href="#" title="Facebook"><i class="syl fa fa-facebook-official" aria-hidden="true"></i>
 <span></span></a></li>
-	<li class="twitter"><a href="#" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i>
+	<li class="twitter"><a href="#" title="Twitter"><i class="syl fa fa-twitter" aria-hidden="true"></i>
 <span></span></a></li>
-<li class="youtube"><a href="#" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i>
+<li class="youtube"><a href="#" title="Youtube"><i class="syl fa fa-youtube" aria-hidden="true"></i>
 <span></span></a></li>
-<li class="actu"><a href="#" title="Actu"><i class="fa fa-rss" aria-hidden="true"></i>
+<li class="actu"><a href="#" title="Actu"><i class="syl fa fa-rss" aria-hidden="true"></i>
 <span></span></a></li>
         </ul>
     </div>
@@ -49,23 +51,23 @@
        
                     <div class="row">
                         <div class="col-sm-1"></div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
 
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">HOME</a></li>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">QUI SUIS-JE?</a></li>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">VIE POLITIQUE</a></li>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">MOLENBEEK</a></li>
                     </div>
-                     <div class="col-sm-2">
+                     <div class="col-sm-2 colmd">
                         
                     <p class="hovernav"><a href="<?= base_url ("schepmans") ?>">CONTACT</a></li>
                     </div>  
